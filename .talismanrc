@@ -1,0 +1,34 @@
+fileignoreconfig:
+- filename: .metadata
+  checksum: 0a999808e3fb8530817642b06d0a47d90b11f95ef2a697674df9556533036d6e
+- filename: README.md
+  checksum: 33a8d8bc940d917ea7296354c299030fead110e91dd879fa9a9b8ba2af3b55f4
+- filename: android/app/build.gradle
+  checksum: 57e83a6e4574ba21e52bf042b2ad51f4a16e6acc65355d3af49231a4393cb9c9
+- filename: ios/Runner.xcodeproj/project.pbxproj
+  checksum: e24ad1cea45bf9fb199759ed2460bdaf2cf2edfe2c82250ef7f46981a6f556d0
+- filename: ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+  checksum: 891e0955785d7c794dc35f94649e5cee7d2dad6e2506db4081a858f50cd793c7
+- filename: ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme
+  checksum: ee7cdf724ce8e76b0b28f812c062afbdc464a9d5032556b710d6453ec79f3b8e
+- filename: ios/Runner.xcodeproj/xcshareddata/xcschemes/development.xcscheme
+  checksum: 2556dd10d5b7b4b4eb03e7f6f0fa3c5f0c7e58c5dd37b7fdcee06bf632c26138
+- filename: ios/Runner.xcodeproj/xcshareddata/xcschemes/production.xcscheme
+  checksum: 9c1eb0712761fc46acab7a2b9998db528d622fe56b47e06494a5f254d40cdb38
+- filename: ios/Runner.xcodeproj/xcshareddata/xcschemes/staging.xcscheme
+  checksum: 2337bdbcf8080d72e0b6ecb84b2802078dcbc1cd5e06041522a7f18faf6addbd
+- filename: ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+  checksum: e9662a27453bd6754e1def1cfb4d368c73dda5e71522dd74b4b0b6d6e6b1866c
+- filename: ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+  checksum: 7548a7b4f16473684319a716085df37d446b0af5bd895704a7f45b8a97d65a64
+- filename: ios/Runner/Base.lproj/Main.storyboard
+  checksum: 94b5ccc5db437138758c35c2e94123553b98463ccbcf606b6a0668d520650e44
+- filename: pubspec.lock
+  checksum: 4545f8d364bf9fa1043d1deb97371447aab415c404557fc7f7e81508b01549a8
+- filename: test/edit_todo/view/edit_todo_page_test.dart
+  checksum: c7f317b55897022379a4ee790be839fdace8f371c1039c66611e85b91d3990bb
+- filename: test/stats/view/stats_page_test.dart
+  checksum: 0f736fdfe8d97295c244f2edae912e65701f577cc791b9d1e6fdfaef5fa58a23
+- filename: test/todos_overview/widgets/todo_list_tile_test.dart
+  checksum: ba2c9ab7936028df2ffa807c2a274e165bf472e2deb237c1cd189ab41e47422f
+version: "1.0"
